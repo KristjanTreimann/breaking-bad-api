@@ -63,7 +63,7 @@ input[type='text'] {
 
 .cards {
   display: grid;
-  grid-template-columns: repeat(4, 1fr);
+  grid-template-columns: repeat(4, 1fr); /* 4 columns grid */
   gap: 1rem;
 }
 
@@ -122,12 +122,12 @@ input[type='text'] {
 
 @media (max-width: 800px) {
   .cards {
-    grid-template-columns: repeat(2, 1fr);
+    grid-template-columns: repeat(2, 1fr); /* When its under 800px its a 2 column grid */
   }
 }
 
 @media (max-width: 500px) {
   .cards {
-    grid-template-columns: 1fr;
+    grid-template-columns: 1fr; /* When its under 500px its a 1 column grid */
   }
 }
