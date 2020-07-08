@@ -1,4 +1,4 @@
-Made by using tutorial (https://www.youtube.com/watch?v=YaioUnMw0mo)
+![Alt text](https://github.com/KristjanTreimann/breaking-bad-api/blob/master/breakingbad.png)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
